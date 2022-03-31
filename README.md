@@ -1,9 +1,7 @@
 
 # Rapport
 
-**Skriv din rapport här!**
-
-_Du kan ta bort all text som finns sedan tidigare_.
+"README.md with a short report where you explain the things that you have done (not required for assignment 1 and 5)"
 
 ## Följande grundsyn gäller dugga-svar:
 
